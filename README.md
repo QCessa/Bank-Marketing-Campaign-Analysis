@@ -4,7 +4,7 @@
 This analysis aims to inform on the success and failure rates of the previous marketing campaign done by Porty B’s banking institute, to guide future marketing initiatives.
 
 ## DATA SOURCE
-The dataset used was sourced from the bank's internal campaign records and provided by Intern Pulse, comprising 4,483 client interactions with 17 attributes namely age, job, marital, education, default, balance, housing, loan, contact, day, month, duration, campaign, pdays, previous, poutcome, y.
+The dataset used was sourced from the bank's internal campaign records and provided by Intern Pulse, comprising 4,483 client interactions with 17 attributes, namely age, job, marital, education, default, balance, housing, loan, contact, day, month, duration, campaign, pdays, previous, poutcome, y.
 
 https://github.com/QCessa/Bank-Marketing-Campaign-Analysis/blob/Master/Porty%20B's%20Marketing%20Analysis.xlsx
 
@@ -34,7 +34,7 @@ https://github.com/QCessa/Bank-Marketing-Campaign-Analysis/blob/Master/Porty%20B
 4.	Microsoft PowerPoint was used for presentation.
 5.	ChatGPT was used for deeper insights into business case scenarios.
 
-![image](https://github.com/user-attachments/assets/0ccc6c8b-eb29-4b0b-8261-55ae8fe70b38)
+<img width="411" height="242" alt="image" src="https://github.com/user-attachments/assets/9a67d844-4a18-4ed2-b49a-ab6cf8288813" />
 
 ## LIMITATIONS
 The dataset contains over 80% 'unknown' entries in the ‘previous_outcome’ field, limiting the depth of historical engagement analysis.
@@ -42,9 +42,9 @@ The dataset contains over 80% 'unknown' entries in the ‘previous_outcome’ fi
 ## INSIGHTS ACQUIRED
 1.	Entrepreneurs, retirees, technicians and service-delivery workers between 40 and 70 years of age responded more positively to the campaign.
 2.	Out of people with already existing loans, only individuals who worked in administrative, management and service-delivery roles, between the ages of 34 and 52, were successfully converted during the campaign.
-3.	Divorces with an account balance above £6K successfully subscribed to the bank, even though they already had an existing loan. In contrast, married couples and single individuals with account balances between £2K and £5K were the highest subscribers when they did not have an existing loan.
+3.	Divorces with an account balance above £6K successfully subscribed to the bank, even though they already had an existing loan. In contrast, married couples and single individuals with account balances between £2,000 and £5,000 were the highest subscribers when they did not have an existing loan.
 4.	Higher success rates were recorded among educated individuals; however, this becomes greatly reduced when a pre-existing loan exists. Primary schoolgoers with existing loans were not successful at all.
 5.	Higher success rates were achieved in January, March, July, October and November. In contrast, February, April, May and June had the most failed campaigns.
  
 ## FINAL CONCLUSIONS
-Future marketing campaigns should target middle-aged individuals working in managerial or administrative positions. They should be initiated in January after individuals have splurged during the December holidays, and in November when preparation for the festivities begins. Furthermore, tailored campaigns should be considered for divorcees and retirees, as they are most likely to subscribe to the bank with a tailored offer.
+Future marketing campaigns should target middle-aged individuals working in managerial or administrative positions. They should be initiated in January, after individuals have splurged during the December holidays, and in November, when preparations for the festivities begin. Furthermore, tailored campaigns should be considered for divorcees and retirees, as they are most likely to subscribe to the bank with a tailored offer.
